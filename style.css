@@ -69,11 +69,14 @@ nav ul li a:hover{
 .hero h2{
     font-size:48px;
     margin-bottom:20px;
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 4);
 }
 
 .hero p{
     font-size:22px;
     margin-bottom:30px;
+    color: white;
 }
 
 /* Bouton */
@@ -214,9 +217,9 @@ footer{
     padding:25px;
 }
 
-/* ========================= */
-/* RESPONSIVE */
-/* ========================= */
+/* ===========================
+   RESPONSIVE TÉLÉPHONE
+=========================== */
 
 @media(max-width:768px){
 
@@ -240,7 +243,11 @@ nav ul li{
 .hero p{
     font-size:18px;
 }
+
 }
+
+
+
 /* ===========================
 BARRE DE PROGRESSION
 =========================== */
