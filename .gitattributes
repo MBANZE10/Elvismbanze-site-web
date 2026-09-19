@@ -1,2 +1,1 @@
 doc.pdf/programmatio.mp4 filter=lfs diff=lfs merge=lfs -text
-doc.pdf/programmation.mp4 filter=lfs diff=lfs merge=lfs -text
